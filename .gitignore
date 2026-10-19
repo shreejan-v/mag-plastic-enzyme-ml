@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+data/all*
+data/X.npy
+outputs/step3.log
